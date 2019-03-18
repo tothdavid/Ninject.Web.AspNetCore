@@ -1,0 +1,1 @@
+# Ninject.Web.AspNetCore
